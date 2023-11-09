@@ -10,3 +10,8 @@ through local polling.
 
 We are currently investigating the underlying hardware components of both the Keg and Airlock products. Initial
 investigations suggest both devices may be amenable to running custom, open-source firmware.
+
+### Community
+
+Discussions about both the hardware and firmware for both Airlock and Keg can be found on
+[Discord](https://discord.gg/ukX8RHyM)
